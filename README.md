@@ -18,5 +18,3 @@ In this project a 2 channel relay is used to control the direction and state of 
 
 ### Code details:
 The code is written in C and the Arduino IDE is used to compile and write code on to the Arduino Mega 2560 
-
-### Video:
