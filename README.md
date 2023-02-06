@@ -2,8 +2,7 @@
 This project deals with controlling the direction of rotation of a DC motor
 
 ## Motor-direction-control
-In this project a 2 channel relay is used to control the direction and state of operation of a DC motor. The serial monitor is used to send commands to the Arduino mega to trun the motor clockwise, anti-clockwise or turn it off.   
-
+In this project, a 2-channel relay is used to control a DC motor's direction and state of operation. The serial monitor is used to send commands to the Arduino mega to turn the motor clockwise, anti-clockwise, or turn it off.
 
 
 ### Components used:
